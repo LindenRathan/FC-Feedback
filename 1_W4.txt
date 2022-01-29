@@ -1,0 +1,66 @@
+Cairn
+- General: Lots of teleports/specials not used
+- hFB (Sophie)
+	- Why is there a random staff 5 in the opener
+	- mace > axe
+	- start on staff for swiftness, then swap for protection and constant healing etc.
+	- Signet was fine, F1 was a bit delayed
+	- A lot of unnecessary movement at the beginning, just dodge out a second or 2 before red to get it. Only sh4 needs you to be behind people to hit them
+	- Don't use heal bow if everyone is full; symbols are your normal upkeep heal, bow is your "get low people back to full" heal. Just because you yourself take some hits, don't panic. Also can run tanky stuff on Cairn, then can kite his autos better.
+	- Very long delays between F1s, just dip in, use 4 and out if you need to focus on healing.
+	- Wasted F2 at 88s => once you realized that everyone around you is full, just sit in tome until back on stack, then use it to burst the low people back up
+	- F3-4 does nothing on Cairn
+- cBS (Quaggan)
+	- Take the close green, otherwise you end up with a red
+	- Precast banners, not in combat. Try to pick up and replace when people take greens.
+	- Don't delay the opener; you have enough time to headbutt and then still go to the green.
+	- Always use heal to reset bow F1, never sword F1.
+	- Just run outrage instead of shattering blow, to make sure there are no random reflects.
+- RR (EcS)
+	- If two reds are already positioned correctly, take the other open position instead of trying to squeeze between them. First check which of the reds loses theirs, then take that spot. Don't panic, just take a second to look first.
+- cScourge (bunch of people)
+	- If someone is down, just pop signet on them, especially if they have a red. That cost us a lot of time rezzing etc. Someone tried very late, but missed (?)
+	- Dex: Very low soul barbs uptime; always use F5 off cooldown.
+- Chrono (Linden)
+	- Fix traits before so you don't reflect like an idiot (probably killed Dex with that)
+	- Opener can be faster, do not wait for Sh5, just Sc2 => TW => other stuff
+	- Can be more aggressive, don't camp shield
+- RR (Narkane)
+	- You ate a bunch of teleports; if you have trouble picking out yourself in that ball of people, there is a setting to always show your own name in white so it's more visible
+- Druid (Zanakin)
+	- Staying too long in CA on the opener, with some downtime in between
+	- Can drop sun spirit active from the opener, the only things that matter are protection active, wh5 and CA (the rest is secondary and can be done after)
+	- After using wh5, can swap to staff for more raw healing; long downtime of axe autos in between, could've been a bit more healing with staff abilities there
+	- Wasted quickraw at 66.5s; if you swap weapons or in/out of CA, always use the most valuable skill first (wh5>4>3>2 generally, staff5>3>2>4 generally)
+	- Storm spirit active is very low prio, literally everything else is higher
+	- You spawned Nature Spirit very far from the group, meaning it nearly died, and also didn't heal as much as it could. Try to have that one on stack as much as possible, as you want to heal it to keep it alive.
+	- Could've gone for spirit rezz on EcS, no need to save spirit for anything
+
+MO
+- General: Please don't facetank soldier explosions, people.
+- Druid (Zanakin):
+	- Sun/Frost/Stone, no storm
+	
+Sama
+- General: Pay attention to friends, multiple people let their friend down
+- Any renegade
+	- On split, vuln cat has highest priority as he constantly loses conditions, so we can actually upkeep vuln decently
+	- Good usage of heal cat at the beginning of the split phase, while druid is occupied
+- Druid (Zanakin)
+	- Drop storm for sun; we have both power and condi. Can even consider dropping stone for stun glyph, but CC was overall fine so not really needed.
+- qFB (Sophie)
+	- Good F2 usage on split to get people back up
+- pDD (Dex):
+	- Good hold on Basi, try to always use that on second CC
+
+Deimos
+- General: Good focus on the blacks, pretty much perfect. Black guy didn't get a split off up top, others also didn't create any problems.
+- Druid (Zanakin)
+	- STORM BAD! Storm is used if a) you need to provide fury for off-sub (nope, hFB is there) or b) vuln is an issue (nope, RRs deal with that)
+	- Good movement
+- hFB (Sophie)
+	- Do not use double signet share when we get down, but immediately when we get up (unless it will be back available when we get up)
+	- First signet share was very delayed, your signet should be same time as Unnatural
+	- Big delays on F1 again; use off cooldown (unless see above)
+- cScourge (Zerka)
+	- Always bring epi on Deimos. Either epi from the black guy to Deimos, immediately when we come back up, or wait like 3 seconds after coming back up and epi from Deimos to black guy. Otherwise just spam it to deal with prides.

@@ -1,0 +1,52 @@
+Adina
+- General
+	- Don't greed on the first phase, before we go hide. We are NOT skipping the pillars anyway, so no need to push it. Just go hide, and then safely phase it after.
+	- On the beginning of hands phase, do NOT greed to make it to stack if you are in Narnia. First make sure you are on safe floor (not orange, not in or over sand), THEN come to stack.
+	- Count your pillars. Location of a pillar is irrelevant, what matters is it's position relative to the others.
+- bDD (Quaggan)
+	- Always immediately use both ectos (from pre-steal), then steal. Can use one stack somewhere in between, use second stack shortly before we go hide (to aegis shockwave). Then use steal to go from behind pillar to her again. Usually, she is already less than 5% away from phasing, so do NOT use any stacks, just let boons drop and phase. Having 2 stacks for hands is highest prio.
+	- On the 75% hands, immediately pop both stacks; first stack has to be before shockwave so people have aegis
+	- On 50%/25%: Use 1 stack immediately before shockwave, steal from hand, then use another stack immediately after steal. Use 3rd stack right in transit from #2 to #3.
+	- Always use steal to get back to Adina from hand #4, then immediately pop both stacks.
+- pBS (Narkane)
+	- For the 75% hands, can just drop banners between Adina and hands, then they will still be there for Adina herself, don't have to replace them. If you center them right in front of the hand, it won't reach all the way to Adina.
+- pSlb (Zanakin)
+	- Opener is slow, you are missing out on the OWP-hits of LB5
+	- Don't try to squeeze in a second Axe5 before going to hide. Go hide, then come back and do it in peace; you won't get a third one anyway.
+	- I made a video for Slb rota on Adina: https://www.youtube.com/watch?v=d6lcOc_Rz_E
+	
+Sabir
+- General
+	- On uncoordinated CC - NEVER. DELAY. SAK. As soon as breakbar is visible, SAK immediately. Always. No exceptions.
+	- Do not slack on CC, use all your reasonable cooldowns/energy/whatever to break that bar. If it isn't broken fast enough, we will get more mechanics.
+- hTemp (EcS)
+	- Side note, we had some staff mirages, so they covered might pretty much. My commentary is assuming that you are the only might source.
+	- Opener is non-existent, on all phases. Might would be severely lacking if not for the mirages.
+	- Rotation is incorrect (some Fire4 without prior Fire Overload etc., only one dip into water instead of two per loop which I would not recommend on a high dps boss),  and uses air overloads. As mag auras are quite nice on Sabir due to reflects, earth overload is more valuable; also protection uptime, especially in your own sub, was rather low.
+	- See this video for correct rotation (dagger is similar, but a lot stricter and less forgiving): https://www.youtube.com/watch?v=zPMnzcOPAbI&list=PLfx1tmGvypupYmGvATiHYusZYfwkQGG7b&index=31&t=20s
+	- Also after looking at our comps again, dagger is worth it pretty much nowhere anymore
+- Chrono (Quaggan)
+	- Careful where you leave your F4, tornado might eat you
+	
+QtP
+- General
+	- You can dps QtP while he consumes the pylon, and you can also dps him for a couple seconds after he comes back to the middle, before we have to CC the pylons again
+	- Reasoning for pylon/people assignments: 1 kiter on each; tank north, so north only has one open spot. Has to be a renegade, as they have the highest amount of CC available with kalla. SE has two open slots; as it is only 3 people in total, another renegade there to carry CC, and the BS as safety. SW has 4 people, so thats already safer in terms of CC, and off chrono is there to carry that CC if needed. Then it's just the split on SW - the rule is that kiter and healer go towards the pickup point, and the other two on the other side. There is no reason behind this besides "this is the easiest to remember/explain", it doesn't actually do anything in terms of combat.
+	- If you are not sure you can get the jump timing on an arrow, just use a dodge to be safe. Dodge i-frames are a lot more generous than jumps.
+- cRen/RR (Narkane/Dex)
+	- When going from pylon to QtP, use vuln cat immediately (before shockwave), and bleed cat slightly delayed. You want to dps as fast as possible and also vuln ramp. Bleed cat only does sth if people actually attack, which basically only happens after shockwave, so use it directly after shockwave.
+- Pylons (Zanakin/Attila)
+	- When your pylon gets destroyed, you go IN FRONT of a remaining pylon, NOT INSIDE! Your space is the dark blue circle around QtP, so you still get the good tether from the actual kiter there, but don't drop skyhammer or other shit on them (also to potentially leach banners/boons).
+- Tank chrono (Sophie)
+	- Below 20%, if you are in range to AA QtP, you are too close to him. Your job is to a) keep 3 clones up at all times, and throw as much quickness as possible around with TW/WoA/Sh5/(SoI). By being too close, you spread a bad tether into the stack. Hope that your hTemp likes you, and that the scourges give you some barrier.
+	- Also means you kinda want to stack roads a little to have enough space
+- hTemp (Cy)
+	- Impossible to see from log, but try to always throw your Water Sc3 on the tank, as it is your only reliable long-range heal
+	- Rotation always skips the first dip into water right after fire; especially in the beginning this is fine, as there is no pressure at all, but below 20% would say thats worth it for the safety
+- cFB (EcS)
+	- A lot of scepter autos, use t5 instead
+	- Never swap to scepter unless you have F1 available
+	- Your Axe2 is also CC (for pylon). Yes, it will fuck t4 alignment, but getting that CC broken is more important.
+- Off chrono (Quaggan)
+	- Start on pistol for p5/domi signet big CC on pylon; then use p4 on QtP, swap sword and use Sw4 to get another clone from blocking the shockwave, then Sw3 and do a 3 clone opener (Sw5 resets etc)
+	- After the second fires have been placed, Domi Signet is only there as BACKUP CC if your p5 is not available against an anomaly. Always just use p5 if available, Domi if not.
