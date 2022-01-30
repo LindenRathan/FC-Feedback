@@ -1,0 +1,67 @@
+SH
+- General
+	- Don't facetank 8 slice pizza, just dodge. Also all aegis sources try to give aegis, but never rely on it. If you have to facetank, make sure you are exactly in one slice, not between 2
+	- If we are moving, do not facetank the outer donut, just dodge.
+- Druid
+	- Good pushing, just remember the glyph trait next time to make it easier on yourself
+	- Try not to push through the group though (did on the very first one), as there is a decent chance it will get stuck
+	- Remember to swap consumables, as you are power on the boss before (Q1)
+- hTemp
+	- You generally want to space out your shouts - there is no point in bursting out all your 10-man healing if everyone is full. Generally, aftershock off CD to keep up prot; ice/fire shout for situational healing.
+	- Aftershock as the first action when everyone is there; mag aura for reflects and prot uptime are important.
+	- Impossible to tell from log, but remember to switch traits (sse loadout sheet; wasn't there before, but updated it now)
+- epi cScourge (Attila)
+	- First epi was a little early; try to wait until it has been moved a little before using it.
+- cele FB (Dex)
+	- Not sure what happened on the not taking tank part at the beginning, but that was the second time that happened. Maybe a ghosting issue on the keyboard?
+- SCAM (Sophie, Zerka)
+	- Better to press F4 than to go down
+	- Same thing as for Largos - always 3=>F3 and Staff5 on CC
+	
+Broken King
+- General
+	- Try to be as self-sufficient as you can
+	- If you have to go from one side to the other, always PASS HIM ON THE BACK, never walk across his front
+	- Pick up as many greens as you can, for everyone
+- Mesmer (Zerka)
+	- Can actually go with SCAM here instead of power chrono, as SCAM can be a lot more useful on range
+- hTemp (EcS)	
+	- Try to use Water5 as much as possible, to spread regeneration around especially to people spread around. Regen uptime, especially on tank, is very low.
+
+Fat Guy
+- General
+	- If we only have 4 up and cannot sacrifice, CC has the HIGHEST priority for those down; you use EVERYTHING YOU HAVE, IMMEDIATELY
+	- If you stand on the lit up tanking platform, you deal more damage
+	- Spiders are more about burst than dps. Also some mobility is nice to get from A to B fast (tempest and mesmers can take their respective blinks, druid can use staff3 etc.) - especially for picking up after the spider dies
+
+Eyes
+- General
+	- Reminder: KnockDOWN, Fear and Daze are to be avoided. Other CCs are fine.
+	- Cleave down skeletons, even while moving. Always let the person with the orb go to the eye first - if they are not moving, wait with them (they might not have an orb yet; if you run in, it's suicide)
+- Druid (Zanakin)
+	- Ability 2 stuns the eye. Ability 1 just yeets the orb across the room.
+	- When you start, use the first orb, then CA and stack might fast
+	- Brown bear to cleanse fears
+- DivAlac (Narkane)
+	- Having Mallyx as second legend is good, as you can cleanse fears from people
+- hTemp (EcS)
+	- Don't aggro the eye before running in; remember that your shouts also hit enemies, that's why it nuked you as soon as you went out of cover
+	
+Dhuum
+- General
+	- When Dhuum AAs, he spawns those exploding circle. There is a tiny one behind his right feet, which multiple people tend to facetank (Narkane, Cy, maybe more)
+	- If Dhuum is active, and you get a bomb, clear star. Don't go as far as possible, just go to star and clear.
+	- If you get a messenger, just get out, don't try go get some more hits in or something. You are too much of a risk to others in that case.
+- Chrono (Dex)
+	- You cannot dodge a bomb blast, but you can distort it
+- qFB (Sophie)
+	- Don't use F3-5, it GIVES TOUGHNESS! It caused dhuum to AA the group in the second attempt. F3 in its entirety has no real use on Dhuum.
+- Scourge tank (Attila)
+	- First tanking location, try to be a tiny bit more towards the wall, so Dhuum and the skeleton can be better cleaved down. Yes that means your camera will be fucked.
+- hTemp (EcS)
+	- Try to use aftershock to immobilize the first skeleton in the same location as Dhuum, so it can be cleaved easier
+	- Might ramp is significantly delayed. Goes back to earlier points, but everyone should already be at 25 stacks when Dhuum becomes targetable. This also means your second might application will overlap with the G1 coming to stack. If you delay the first ramp, G1 person will be without might for a long time as well.
+	- Don't waste Fire Overload right before big split, you need it right after. Same goes for aftershock
+	- Always use 6 after big split to cleanse people; don't use it otherwise unless it's really necessary.
+	- Thing from above applies to the last 10% as well. You need to be on 25 might when people come back from buttons already. Best thing is to overload earth while waiting for RC to resolve, maybe even add aftershock right before people start running; extend with E4. The swap fire and stack might on yourself while people are out. As soon as they are back, Fire4 to share might.
+	- Rotation notes from other bosses apply here too - you generally can't overload both earth and air in the same loop without sacrificing might; but at the same time you have to time your Fire Overloads around the big splits. Fire and Earth overloads are relevant, Air not really. Double water is very important on this boss, as there is frequent damage from bombs that you need to counterheal without your 6, because you need that for big split.
