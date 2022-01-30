@@ -1,0 +1,39 @@
+CA
+- General
+	- Adjust your burst to the hand times. Hands are not about dps, but burst. Golem rotation goes out the window if you only have 8 seconds to do damage (kinda same as on Adina hands).
+- Chrono (Sophie)
+	- Toughness gear? Lower dps than druid somehow
+	- If you don't have TW, probably not worth using F4
+- pBS (EcS)
+	- Sword usage *massively* delayed. Generally, use as soon as you have 10 stacks, unless there is a specific reason to hold them.
+	- When coming back from collecting, already can slap the boss (easiest is to just use Axe 5 in his face while running back)
+	- All collection phases are the same, last one is just more dangerous as there is an arm and usually also trashmobs interfering
+	- Don't waste berserk mode if boss is about to phase/don't delay berserk when coming back to boss. After first collecting, you just auto for quite a while before berserk; then berserk runs out right after we phase, which means you don't have it for the hand.
+	- You only entered berserk twice in the entire fight; after 50%, no berserk ever. Don't know what you were waiting for. That's why Ventari alac had more dps.
+- Druid (Zanakin)
+	- No CA used on the first hand - as soon as we are in combat, wh5 and then CA. Everything else after. People had no might for the entire first hand burn.
+	- No need to focus on swords when going to boss anymore - they will eventually come to stack anyway and cleaved down.
+- pDD (Attila)
+	- Try to steal some bombs from the shields, helps with CCing them significantly
+	- Don't bother with basi, unless you use it specifically for the shields. It will most likely get eaten by the hand anyway, and you timed it WAAAY to early for it to do anything.
+- pHolo (Dex)
+	- Laser disk is way too delayed on the hand. E.g. very first hand phase, ~4 ticks of disk hand is already back up again. Same with ult. Try to adapt rotation to get more burst out of it. Also laser disk F skill.
+	- Don't overfocus on giving arms vuln. F3 alone will already do enough.
+	- Smart to go off stack to grab swords that were lying around. On the very last phase, just keep them, as there is a chance that shield runner gets fucked by shields in their path, to emergency break CAs bubble.
+	
+Largos pre
+- General
+	- Don't chase after a thing that has to run around anyway. Stack up to get boons and heals.
+	- Do not interfere with pulls. That means simply don't use any ability that has build-in CC, like renegade stun cat etc.
+	- If shit is bad on shark, either rezz or CC. Anything else doesn't matter.
+- pDD (Narkane)
+	- Can take scorpion wire for pulls
+	- Stealth heal for additional CC on shark/use FF=>PS on shark to CC as well; or even SB4 if nothing else available
+- Healers (Zanakin/EcS)
+	- Relog to heal immediately after CA is dead
+	
+Largos
+- cRen (Narkane)
+	- Don't facetank dashes, just dodge. The crit chance mod is not worth getting cold/slow on you, or potentially going down.
+	- Just use a stun cat for CC instead of a vuln cat. Squad dps loss by having that CC bar up forever is not worth the personal dps.
+Q1
