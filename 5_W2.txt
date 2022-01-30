@@ -1,0 +1,30 @@
+Sloth
+- cScourge (Attila)
+	- Really be careful with your epi. Second group of slubs always overlaps with the second eater. No need to epi generally on the second group, as we are already directly on top of them.
+- pBS (EcS)
+	- Headbutt removes stab; if you use it very late in the breakbar, you might get feared
+	- Be faster on the CC, 3->5->HB; F1s after if necessary
+	- Give relevant information in your calls. "I am down/dead" is relevant, but what is more relevant is what that means. So "BS dead, backup third shroom needed" is a better call than "I am dead" and then people first need to figure out what you are, and what action we need to take based on that.
+- pSlb (Zanakin)
+	- Always gazelle here
+- hTemp (Quaggan)
+	- Try not to use 6 for self healing; try to use going into water instead. 6 is very important against shake.
+- DH (Sophie)
+	- Be careful with GS5 to not hit/pull our slub
+- DivAlac
+	- 100 energy opener, but with the bleed cat instead of CC cat (maybe template bug). Also didn't get you low enough to get the high-energy swap.
+	- Other than that, really good balance of CC and dps
+	
+Trio
+- General
+	- Don't mess with the bomber, let BS handle it
+- DivAlac (Narkane)
+	- Just start the first boss on staff, CC, then swap sword
+	
+Matthias
+- General
+	- Hadoukens and jump shards still get a lot of people down or at least damage them. Dodges are not a dps loss if they save you from going down/having to rezz.
+- cBS (Narkane)
+	- If you have HB available for a sacrifice, try to use it. On normal CCs its generally fine to greed, but not if one of the boonthieves is the target, as they are carrying CC hard and with one down, that's a problem.
+- cRen (Zanakin/Dex)
+	- Try to use a little of your CC; if a boonthief is the target, then it's mostly on the renegades to carry the CC on that round.
